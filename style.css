@@ -1,0 +1,54 @@
+#delicious {
+    font-size: 60px;
+    font-family: cursive;
+}
+#chocolate-pizza {
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+h5 {
+    font-size: 10px;
+}
+
+#choco-pizza-picture {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  height: 500px;
+}
+
+.left-side {
+    font-family: 'Baloo Thambi 2', cursive;
+    color: gray;
+    position: absolute;
+    left: 20px;
+    padding: 10px;
+    margin: 50px;
+}
+
+.right-side {
+    font-family: 'Baloo Thambi 2', cursive;
+    color: gray;
+    position: absolute;
+    right: 20px;
+    padding: 10px;
+    margin: 50px;
+}
+
+ul {
+    list-style: none;
+}
+
+.social-icons {
+    float: right;
+    display: flex;
+}
+
+#fork-knife {
+    float: left;
+    padding: 10px;
+    
+}
